@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body{
+  margin:0;
+}
+.container{
+  height:100%;
+  width:100%;
+
+}
+
+.heading{
+  color: white;
+  z-index:10;
+  font-family: Bangers,sans-serif;
+  font-size:3em;
+}
+.btn{
+  z-index:10;
+}
+.canvus{
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:-10;
+  cursor: crosshair;
+}
+
+.save{
+  position: absolute;
+  bottom: 0;
+  margin: 1em;
+}
+
+
