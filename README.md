@@ -1,5 +1,5 @@
 # Sketchy
-A sketch app made by p5.js
+A sketch app made in p5.js
 
 ## Important: "Change Background" button redraws the whole canvas, so decide on a background color before drawing!
 
